@@ -1,10 +1,10 @@
 import React from 'react';
 
 const feedbacks = [
-  "/feedback1.png",
-  "/feedback2.png",
-  "/feedback3.png",
-  "/feedback4.png"
+  "feedback1.png",
+  "feedback2.png",
+  "feedback3.png",
+  "feedback4.png"
 ];
 
 const Feedbacks = () => {

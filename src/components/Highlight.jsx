@@ -5,7 +5,7 @@ const Highlight = () => {
     <section className="highlight-section">
       <div className="highlight-container">
         <div className="highlight-image-col">
-          <img src="/highlight.png" alt="Destaque Só Dellas" className="highlight-image" />
+          <img src="highlight.png" alt="Destaque Só Dellas" className="highlight-image" />
         </div>
         <div className="highlight-text-col">
           <h2>Elegância e Conforto</h2>

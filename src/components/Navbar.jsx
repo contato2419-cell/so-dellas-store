@@ -13,7 +13,7 @@ const Navbar = () => {
         {mobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
       </div>
       <div className="navbar-logo">
-        <img src="/logo.png" alt="Só Dellas Logo" style={{ height: '40px' }} />
+        <img src="logo.png" alt="Só Dellas Logo" style={{ height: '40px' }} />
       </div>
       <div className={`navbar-links ${mobileMenuOpen ? 'active' : ''}`}>
         <a href="#inicio" onClick={() => setMobileMenuOpen(false)}>Início</a>
